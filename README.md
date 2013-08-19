@@ -2,7 +2,7 @@
 
 ## What's this?
 
-[Markdown](http://daringfireball.net/projects/markdown/) / [Markdown Extra](http://michelf.com/projects/php-markdown/extra/) wrapper for [Kohana 3](http://kohanaframework.org/).
+[Markdown](http://daringfireball.net/projects/markdown/) / [Markdown Extra](http://michelf.com/projects/php-markdown/extra/) wrapper for [Kohana 3.3](http://kohanaframework.org/).
 
 ## What it can do?
 
